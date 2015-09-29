@@ -3,3 +3,7 @@ add a line
 add another line
 
 base
+
+after add a dir	
+add
+
