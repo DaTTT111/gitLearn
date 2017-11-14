@@ -90,7 +90,7 @@ save_new        = 1
 --上传图片大小限制，默认100MB
 max_size        = 100*1024*1024
 --允许上传图片类型列表
-allowed_type    = {'image/jpeg', 'iamge/jpg', 'image/png', 'image/gif'}
+allowed_type    = {'image/jpeg', 'image/jpg', 'image/png', 'image/gif'}
 
 --mode[1]: local disk mode
 --本地存储时的存储路径
