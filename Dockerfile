@@ -1,1 +1,1 @@
-FROM index.alauda.cn/demo100/mytestnodejs
+FROM 192.168.15.64:5000/zimg
