@@ -1,1 +1,1 @@
-FROM index.docker.io/library/rabbitmq:3.6.11-management
+FROM index.alauda.cn/demo100/mytestnodejs
