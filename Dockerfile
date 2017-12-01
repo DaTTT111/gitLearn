@@ -1,1 +1,1 @@
-FROM registry.alauda.cn/zhenwu/tomcat
+FROM registry.alauda.cn/zhenwu/tompub
