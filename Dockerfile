@@ -1,1 +1,1 @@
-FROM registry.alauda.cn/zhenwu/tompub
+FROM registry.alauda.cn/library/nginx
